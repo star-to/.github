@@ -21,7 +21,6 @@
 ---
 ## UI Design
 [Figma UI 보러가기][UI]
-[UI]: <https://www.figma.com/file/wTh9UDlkJX3VAn3XOvrVDN/star-to?node-id=0%3A1>
 ---
 ## FRONT-END
 - javascript
@@ -45,6 +44,11 @@
 - aws ec2, aws s3, aws route53, aws road balencer, aws certification, 
 
 ## Library
+
+
+[//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
+
+[UI]: <https://www.figma.com/file/wTh9UDlkJX3VAn3XOvrVDN/star-to?node-id=0%3A1>
 
 
 <!--
