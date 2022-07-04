@@ -14,14 +14,14 @@
 - 현재 위치가 카페 or 음식점일 경우 화장실 리뷰 
 ---
 ## 서비스 구성도(아키텍처)
-<img src="https://user-images.githubusercontent.com/81948521/177162672-23f66b89-d925-4a3d-8c8b-0757f1208843.png" width="50%" align="center"> </img>
+![image](https://user-images.githubusercontent.com/81948521/177165958-d996e39a-eda1-46e1-a656-8e2040680bcf.png)
 ---
 ## DB Diagram
-![image](https://user-images.githubusercontent.com/81948521/177162672-23f66b89-d925-4a3d-8c8b-0757f1208843.png)
+<img src="https://user-images.githubusercontent.com/81948521/177162672-23f66b89-d925-4a3d-8c8b-0757f1208843.png" width="50%" align="center"> </img>
 ---
 ## UI Design
-![image](https://user-images.githubusercontent.com/81948521/177163950-824305fd-6f40-489b-b955-61842eee6f6c.png)
-
+[Figma UI 보러가기][UI]
+[UI]: <https://www.figma.com/file/wTh9UDlkJX3VAn3XOvrVDN/star-to?node-id=0%3A1>
 ---
 ## FRONT-END
 - javascript
