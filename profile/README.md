@@ -20,7 +20,8 @@
 ![image](https://user-images.githubusercontent.com/81948521/177162672-23f66b89-d925-4a3d-8c8b-0757f1208843.png)
 ---
 ## UI Design
-![image](https://user-images.githubusercontent.com/81948521/177163784-9c143a65-5ab4-4d46-a6f5-e6e60698babd.png)
+![image](https://user-images.githubusercontent.com/81948521/177163950-824305fd-6f40-489b-b955-61842eee6f6c.png)
+
 ---
 ## FRONT-END
 - javascript
