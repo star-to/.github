@@ -23,13 +23,9 @@
 
 ---
 ## FRONT-END
-- javascript
-- typescirpt
-- SCSS
-- webpack
-- babel
-- eslint
-- prettier
+![picture](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white) ![picture](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white) ![picture](https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=Sass&logoColor=white)
+![picture](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white) ![picture](https://img.shields.io/badge/Babel-F9DC3E?style=flat-square&logo=Babel&logoColor=white)
+![picture](https://img.shields.io/badge/Eslint-4B32C3?style=flat-square&logo=Eslint&logoColor=white) ![picture](https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white)
 
 ## Library
 - 사용안함
