@@ -33,13 +33,12 @@
 - 사용안함
 
 ## BACK-END
-- node.js
-- express.js
-- javascript
-- nginx
-- mysql
-- pm2
-- aws ec2, aws s3, aws route53, aws road balencer, aws certification, 
+![picture](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white) ![picture](https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white)
+
+![picture](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
+![picture](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white)
+
+![picture](https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white) ![picture](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=PM2&logoColor=white)
 
 ## Library
 
