@@ -19,8 +19,8 @@
 ## DB Diagram
 <img src="https://user-images.githubusercontent.com/81948521/177162672-23f66b89-d925-4a3d-8c8b-0757f1208843.png" width="50%" align="center"> </img>
 ---
-## UI Design
-[Figma UI 보러가기][UI]
+## UI Design([Figma UI 보러가기][UI])
+
 ---
 ## FRONT-END
 - javascript
