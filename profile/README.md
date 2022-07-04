@@ -14,7 +14,7 @@
 - 현재 위치가 카페 or 음식점일 경우 화장실 리뷰 
 ---
 ## 서비스 구성도(아키텍처)
-![image](https://user-images.githubusercontent.com/81948521/177162347-3f6e2cd2-1123-4ba5-9f06-62b107273f10.png)
+<img src="https://user-images.githubusercontent.com/81948521/177162672-23f66b89-d925-4a3d-8c8b-0757f1208843.png" width="10%"> </img>
 ---
 ## DB Diagram
 ![image](https://user-images.githubusercontent.com/81948521/177162672-23f66b89-d925-4a3d-8c8b-0757f1208843.png)
