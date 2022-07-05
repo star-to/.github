@@ -22,7 +22,9 @@
 ## UI Design([Figma UI 보러가기][UI])
 
 ---
-## FRONT-END
+## :hammer_and_pick:Tools
+
+FRONT-END
 ![picture](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white) ![picture](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white) ![picture](https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=Sass&logoColor=white)
 
 ![picture](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white) ![picture](https://img.shields.io/badge/Babel-F9DC3E?style=flat-square&logo=Babel&logoColor=white)
@@ -32,7 +34,7 @@
 ## Library
 - 사용안함
 
-## BACK-END
+BACK-END
 ![picture](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white) ![picture](https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white)
 
 ![picture](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
