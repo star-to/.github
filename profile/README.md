@@ -24,7 +24,7 @@
 ---
 ## :hammer_and_pick:Tools
 
-FRONT-END
+#### :toolbox:FRONT-END
 
 ![picture](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white) ![picture](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white) ![picture](https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=Sass&logoColor=white)
 
@@ -36,7 +36,7 @@ Library
 
 - 사용안함
 
-BACK-END
+#### :toolbox:BACK-END
 
 ![picture](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white) ![picture](https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white) ![picture](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 
