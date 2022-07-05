@@ -13,11 +13,11 @@
 ### <p align="center">**STAR-TO와 함께 해요 :star_struck:**</p>  
 <br>
 
-----
+---
 
 <br>  
 
-## 주요 기능 
+## :rocket: 주요 기능 
 <br>  
 
 <details>
@@ -57,11 +57,11 @@
 <br>  
 
 
----
+
 
 <br>  
 
-## 서비스 구성도(아키텍처)
+## :hammer_and_wrench: 서비스 구성도(아키텍처)
 <br>  
 
 
@@ -70,10 +70,10 @@
 </p>
 <br>  
 
----
+
 <br>  
 
-## DB Diagram
+## :basket: DB Diagram
 <details>
 <summary>:sunglasses:보기</summary>
 <p align="center">
@@ -82,12 +82,11 @@
 </details>
 <br>
 
----
+
 
 <br>  
 
 ## :hammer_and_pick: Tools 
-<br>  
 
 
 
