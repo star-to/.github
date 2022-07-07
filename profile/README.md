@@ -15,7 +15,27 @@
 
 ---
 
-<br>  
+<br/>  
+
+## 보러가기
+<br/>   
+
+- 현재 구글 플레이 등록 심사 중
+- 등록 후에는 웹뷰로의 접근만 허용하도록 코드 변경 예정
+
+<br/>   
+
+#### 웹뷰환경에 맞추어 UI 개발
+#### 개발자 모드(모바일)로 보는 것을 권장
+
+
+
+:point_right: [구경하기][URL]  
+
+
+<br/> 
+
+<br/> 
 
 ## :rocket: 주요 기능 
 <br>  
@@ -73,6 +93,17 @@
 
 <br>  
 
+
+## :framed_picture: UI Design
+<details>
+<summary>:sunglasses:보기</summary>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/81948521/177708999-2b0fc75e-c014-4075-83b8-5087c5747081.png" width="85%">
+</p>
+</details>
+<br>  
+
+
 ## :basket: DB Diagram
 <details>
 <summary>:sunglasses:보기</summary>
@@ -90,7 +121,7 @@
 
 
 
-#### :toolbox: FRONT-END 
+#### :toolbox: FRONT-END ([레포보기][CLIENT])
 
 <br>  
 
@@ -101,23 +132,37 @@
 ![picture](https://img.shields.io/badge/Eslint-4B32C3?style=flat-square&logo=Eslint&logoColor=white) ![picture](https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white)
 
 
+<br>  
 
 
-#### :toolbox: BACK-END  
+#### :toolbox: BACK-END ([레포보기][SERVER])
 
 <br>  
+
 
 ![picture](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white) ![picture](https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white) ![picture](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 
 ![picture](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white) ![picture](https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white) ![picture](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=PM2&logoColor=white)
  
 <br>  
+<br>  
+
+
+## :thinking: 했던 고민들
+<br>   
+
+:point_right: [전체 기록 보기][NOTION_MAIN]  
+
+
 
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
 [UI]: <https://www.figma.com/file/wTh9UDlkJX3VAn3XOvrVDN/star-to?node-id=0%3A1>
-
+[URL]: <https://star-to.co.kr>
+[CLIENT]: <https://github.com/star-to/star-to-client>
+[SERVER]: <https://github.com/star-to/star-to-server>
+[NOTION_MAIN]: <https://lizard-cosmos-28e.notion.site/2029b3d42714494ba9fb8cb90cbf6064>  
 
 <!--
 
