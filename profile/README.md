@@ -20,10 +20,7 @@
 ## :eyes: 보러가기
 <br/>   
 
-#### 구글플레이 등록
-- 앱로고와 이름에 문제가 있어서 수정 후 재등록 진행중 
-
-<img src="https://user-images.githubusercontent.com/81948521/177999323-a2861387-24c2-4814-b203-6b33f1600f59.png" width="20%"> </img> 
+:point_right: [구글 플레이 다운받기](https://play.google.com/store/apps/details?id=com.starto.myapplication)
 
 <br/> 
 
@@ -34,31 +31,31 @@
 
 <details>
 <summary>:sunglasses: 로그인 (카카오, 네이버 인증 : rest api 사용)</summary>
-<img src="https://user-images.githubusercontent.com/81948521/177337786-a725a59b-d6bf-40a6-9cac-f31ee36a8532.gif" width="20%"> </img> 
+<img src="https://user-images.githubusercontent.com/81948521/177337786-a725a59b-d6bf-40a6-9cac-f31ee36a8532.gif" width="50%"> </img> 
 </details>
 <details>
 <summary>:sunglasses: 로그아웃</summary>
-<img src="https://user-images.githubusercontent.com/81948521/177339466-da4ed4cb-aa96-4a0b-856b-3fd3a6fda97f.gif" width="20%"> </img> 
+<img src="https://user-images.githubusercontent.com/81948521/177339466-da4ed4cb-aa96-4a0b-856b-3fd3a6fda97f.gif" width="50%"> </img> 
 </details>
 <details>
 <summary>:sunglasses: 내위치로 지도 이동(카카오 map api 사용)</summary>
-<img src="https://user-images.githubusercontent.com/81948521/177340245-08c2777e-e21a-4cf6-ab92-dbbb9edafdf0.gif" width="20%"> </img> 
+<img src="https://user-images.githubusercontent.com/81948521/177340245-08c2777e-e21a-4cf6-ab92-dbbb9edafdf0.gif" width="50%"> </img> 
 </details>
 <details>
 <summary>:sunglasses: 지도 위 음식점, 카페 상세리뷰 보기 (별점, 현위치에서 걸리는 시간, 상세리뷰, 가게정보 )</summary>
-<img src="https://user-images.githubusercontent.com/81948521/177340935-48da7ac7-c1f5-4e88-82f4-f5a3a4419c7a.gif" width="20%"> </img> 
+<img src="https://user-images.githubusercontent.com/81948521/177340935-48da7ac7-c1f5-4e88-82f4-f5a3a4419c7a.gif" width="50%"> </img> 
 </details>
 <details>
 <summary>:sunglasses: 현재 위치가 카페 or 음식점일 경우 화장실 리뷰 하기</summary>
-<img src="https://user-images.githubusercontent.com/81948521/177341180-f758bad8-3d06-4be5-ad59-166b8c612749.gif" width="20%"> </img> 
+<img src="https://user-images.githubusercontent.com/81948521/177341180-f758bad8-3d06-4be5-ad59-166b8c612749.gif" width="50%"> </img> 
 </details>
 <details>
 <summary>:sunglasses: 장소 검색 하기</summary>
-<img src="https://user-images.githubusercontent.com/81948521/177344749-41cccff9-6b90-4d14-b411-80454524c1af.gif" width="20%"> </img> 
+<img src="https://user-images.githubusercontent.com/81948521/177344749-41cccff9-6b90-4d14-b411-80454524c1af.gif" width="50%"> </img> 
 </details>
 <details>
 <summary>:sunglasses: 즐겨찾기 추가,삭제</summary>
-<img src="https://user-images.githubusercontent.com/81948521/177344956-64b44ebd-04bb-49b4-bb9b-b4b7fbf0656b.gif" width="20%"> </img> 
+<img src="https://user-images.githubusercontent.com/81948521/177344956-64b44ebd-04bb-49b4-bb9b-b4b7fbf0656b.gif" width="50%"> </img> 
 </details>
 <details>
 <summary>내가 리뷰했던 목록 보기</summary>
