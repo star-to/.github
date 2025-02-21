@@ -20,7 +20,8 @@
 ## :eyes: 보러가기
 <br/>   
 
-:point_right: [구글 플레이 다운받기](https://play.google.com/store/apps/details?id=com.starto.myapplication)
+:point_right: [사이트 구경하기](https://star-to.site)
+<!--[구글 플레이 다운받기](https://play.google.com/store/apps/details?id=com.starto.myapplication)-->
 
 <br/> 
 
